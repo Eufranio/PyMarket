@@ -1,4 +1,3 @@
-from market import Main
 import random
 
 class InvoiceLog:

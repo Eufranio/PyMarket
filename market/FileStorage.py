@@ -7,6 +7,7 @@ from market.Rank import Rank
 from market.Employee import Employee
 from market.Main import Main
 
+
 class FileStorage:
 
     def fill(self):
